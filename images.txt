@@ -4,3 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 nvidia/cuda:11.6.1-cudnn8-devel-ubuntu20.04 
 nvidia/cuda:11.0.3-cudnn8-devel-ubuntu20.04
+wzpan/wukong-robot:latest
