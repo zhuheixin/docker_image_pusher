@@ -7,3 +7,4 @@
 # wzpan/wukong-robot:latest
 mysql:8.0.16
 pytorch/torchserve:0.11.0-gpu
+osrf/ros:noetic-desktop-full
